@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\bin\Debug\net8.0\PixelQuest.exe
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\bin\Debug\net8.0\PixelQuest.deps.json
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\bin\Debug\net8.0\PixelQuest.runtimeconfig.json
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\bin\Debug\net8.0\PixelQuest.dll
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\bin\Debug\net8.0\PixelQuest.pdb
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\obj\Debug\net8.0\PixelQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\obj\Debug\net8.0\PixelQuest.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\obj\Debug\net8.0\PixelQuest.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\obj\Debug\net8.0\PixelQuest.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\obj\Debug\net8.0\PixelQuest.dll
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\obj\Debug\net8.0\refint\PixelQuest.dll
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\obj\Debug\net8.0\PixelQuest.pdb
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\obj\Debug\net8.0\PixelQuest.genruntimeconfig.cache
+C:\Users\PC-1\source\repos\PixelQuest\PixelQuest\obj\Debug\net8.0\ref\PixelQuest.dll

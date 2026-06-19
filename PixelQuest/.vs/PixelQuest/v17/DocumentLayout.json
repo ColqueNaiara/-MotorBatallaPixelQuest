@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\source\\repos\\PixelQuest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62C36758-8086-493B-A619-DA1AF28E0F3D}|PixelQuest\\PixelQuest.csproj|c:\\users\\pc-1\\source\\repos\\pixelquest\\pixelquest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C36758-8086-493B-A619-DA1AF28E0F3D}|PixelQuest\\PixelQuest.csproj|solutionrelative:pixelquest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C36758-8086-493B-A619-DA1AF28E0F3D}|PixelQuest\\PixelQuest.csproj|c:\\users\\pc-1\\source\\repos\\pixelquest\\pixelquest\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C36758-8086-493B-A619-DA1AF28E0F3D}|PixelQuest\\PixelQuest.csproj|solutionrelative:pixelquest\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\PixelQuest\\PixelQuest\\Personaje.cs",
+              "RelativeDocumentMoniker": "PixelQuest\\Personaje.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\PixelQuest\\PixelQuest\\Personaje.cs",
+              "RelativeToolTip": "PixelQuest\\Personaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T23:24:54.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-1\\source\\repos\\PixelQuest\\PixelQuest\\Program.cs",
+              "RelativeDocumentMoniker": "PixelQuest\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-1\\source\\repos\\PixelQuest\\PixelQuest\\Program.cs",
+              "RelativeToolTip": "PixelQuest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T23:21:50.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
